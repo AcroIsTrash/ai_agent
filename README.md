@@ -9,8 +9,8 @@ langchain-openai 2.21.0
 This project is simple demonstration of an ai agent.
 
 **Tools:**
-- sum calculator\
+- sum calculator
 
 **Features:**
-- cli interface\
+- cli interface
 - conversation memory
