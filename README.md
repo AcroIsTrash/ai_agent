@@ -1,5 +1,6 @@
 # Acro's AI Agent
-This project is simple demonstration of an ai agent.
+This project is simple langchain agent on the command-line.  It can access tools as well as remember the current conversation.\
+It uses open-ai and requests an OPENAI_API_KEY if one isn't currently set in the os environment.  It uses uv to keep track of dependencies within a virtual environment.
 
 **Tools:**
 - sum calculator
