@@ -8,8 +8,8 @@ langchain-openai 2.21.0
 # Description
 This project is simple demonstration of an ai agent.
 
-**Tools:**
-    -sum calculator
-**Features:**
+**Tools:**\
+- sum calculator\
+**Features:**\
     -cli interface
     -conversation memory
