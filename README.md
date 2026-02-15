@@ -11,5 +11,5 @@ This project is simple demonstration of an ai agent.
 **Tools:**
 - sum calculator\
 **Features:**
-- cli interface
-- conversation memory
+- cli interface\
+- conversation memory\
