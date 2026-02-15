@@ -1,9 +1,9 @@
-python 3.13.12
-pip 26.0.1
-uv 0.10.2
+python 3.13.12\
+pip 26.0.1\
+uv 0.10.2\
 
-langchain 1.2.10
-langchain-openai 2.21.0
+langchain 1.2.10\
+langchain-openai 2.21.0\
 
 This project is simple demonstration of an ai agent.
 
