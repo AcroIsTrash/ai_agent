@@ -4,7 +4,7 @@ from langchain.agents import create_agent
 
 @tool
 def sum(a: float, b: float) -> str:
-    """Useful for finding the sum of exactly 2 numbers"""
+    """Use whenever finding the sum of exactly 2 numbers"""
     print("Tool has been called.")
     return f"The sum of {a} and {b} is {a + b}\n"
 
