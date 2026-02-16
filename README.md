@@ -16,4 +16,5 @@ It uses OpenAI's GPT5 and requests an OPENAI_API_KEY if one isn't currently set 
 - uv 0.10.2
 - langchain 1.2.10
 - langchain-openai 2.21.0
+- rich 14.3.2
 
